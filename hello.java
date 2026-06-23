@@ -1,5 +1,5 @@
 package com.example;
-public class App 
+public class hello
 {
     public static void main( String[] args )
     {
